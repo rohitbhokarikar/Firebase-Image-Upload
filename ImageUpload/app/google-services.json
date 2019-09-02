@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "229876582699",
+    "firebase_url": "https://image-upload-caf03.firebaseio.com",
+    "project_id": "image-upload-caf03",
+    "storage_bucket": "image-upload-caf03.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:229876582699:android:593690f46e81bc00",
+        "android_client_info": {
+          "package_name": "com.rb.com.imageupload"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "229876582699-mnj66gmpd89htj1d3fp4puah5pcef9go.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCV9pxkmftN2dhrZ0DTNnb_AattYNwVFBY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
